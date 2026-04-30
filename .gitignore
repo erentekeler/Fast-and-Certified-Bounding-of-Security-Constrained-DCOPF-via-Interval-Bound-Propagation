@@ -1,0 +1,11 @@
+DCOPF_abC_Julia/Manifest.toml
+DCOPF_abC_Julia/debug
+*.sh
+export_logs
+sanity_check_logs
+IBP_output_logs
+output
+.vscode
+DCOPF_abC_Python/parameters
+__pycache__
+DCOPF_abC_Python/DCOPF_abC.egg-info
